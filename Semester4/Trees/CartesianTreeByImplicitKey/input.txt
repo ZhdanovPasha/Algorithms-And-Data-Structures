@@ -1,0 +1,8 @@
+ADD глокая
+ADD куздра
+INS 1 бокра
+KEY 3
+DEL 2 5
+KEY 2
+KEY 1
+END
